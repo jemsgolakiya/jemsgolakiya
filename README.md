@@ -16,7 +16,11 @@ I turn raw operational data into governed, trustworthy reporting that people act
 
 ## ⭐ Featured project
 
-### [ATLAS: Governed Self-Service BI Platform](https://github.com/jemsgolakiya/atlas-bi-platform)
+### [ATLAS · Analytics & Trusted Layer for Asset Services](https://github.com/jemsgolakiya/atlas-bi-platform)
+*A governed self-service BI platform for industrial maintenance*
+
+<a href="https://github.com/jemsgolakiya/atlas-bi-platform"><img src="https://raw.githubusercontent.com/jemsgolakiya/atlas-bi-platform/main/docs/images/01_overview_header.png" width="720" alt="ATLAS case study"></a>
+
 An end-to-end BI platform for a (fictional) industrial maintenance company with 12 sites, 943 assets and 33k work orders.
 
 - **Snowflake** RAW → SILVER → GOLD layers with SCD2 history, masking and row-access policies, and automated data-quality tests (plus a Databricks version)
